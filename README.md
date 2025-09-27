@@ -265,6 +265,3 @@ GROUP BY category;
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
-
-
-## Author - Zero Analyst
